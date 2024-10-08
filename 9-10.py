@@ -1,6 +1,6 @@
 #importing tensorflow library
 import tensorflow as tf 
-checking the version of tensorflow
+#checking the version of tensorflow
 print(tf.version)
 
 #Tensor - A tensor is the fundamental data structure used to represent data. It is a generalization of matrices that can be used to represent multi-dimensional arrays
